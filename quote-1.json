@@ -1,15 +1,15 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
+    "name": "ahsan",
+    "species" : "man",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
     }
   },
   {
-    "name": "Barky",
-    "species" : "dog",
+    "name": "jony",
+    "species" : "human",
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
