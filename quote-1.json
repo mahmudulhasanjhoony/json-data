@@ -1,6 +1,6 @@
 [
   {
-    "name": "ahsan",
+    "name": "xyz",
     "species" : "man",
     "foods": {
       "likes": ["tuna", "catnip"],
@@ -8,7 +8,7 @@
     }
   },
   {
-    "name": "jony",
+    "name": "abc",
     "species" : "human",
     "foods": {
       "likes": ["bones", "carrots"],
